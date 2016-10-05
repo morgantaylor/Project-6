@@ -6,6 +6,7 @@ body {
   font-weight: 300;
   color: #111;
   background: url(svgs/background.svg) #edeff0;
+  background-size:50px;
 }
 
 #container {
@@ -173,7 +174,7 @@ a:hover .icons {
 .red-brows {fill:#EAAA7F;}
 
 
-@media screen and (min-width: 421px) {
+@media screen and (min-width: 420px) {
   .logo {
     max-width: 140px;
     width: 100%;
